@@ -1,6 +1,3 @@
-# PUBG
-45.32.12.0/24
-# Mobile Legends
-203.205.220.0/24
-# Valorant
-13.107.246.0/24
+45.32.12.0/24  # PUBG
+203.205.220.0/24  # Mobile Legends
+13.107.246.0/24   # Valorant
